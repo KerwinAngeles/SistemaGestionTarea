@@ -1,0 +1,139 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Proyectos\\ArqCapas\\ProyectoGestionTareas\\GestionTareas\\API\\API.csproj": {}
+  },
+  "projects": {
+    "C:\\Proyectos\\ArqCapas\\ProyectoGestionTareas\\GestionTareas\\API\\API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Proyectos\\ArqCapas\\ProyectoGestionTareas\\GestionTareas\\API\\API.csproj",
+        "projectName": "API",
+        "projectPath": "C:\\Proyectos\\ArqCapas\\ProyectoGestionTareas\\GestionTareas\\API\\API.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Proyectos\\ArqCapas\\ProyectoGestionTareas\\GestionTareas\\API\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Proyectos\\ArqCapas\\ProyectoGestionTareas\\GestionTareas\\Capa_Entidades\\Capa_Entidades.csproj": {
+                "projectPath": "C:\\Proyectos\\ArqCapas\\ProyectoGestionTareas\\GestionTareas\\Capa_Entidades\\Capa_Entidades.csproj"
+              },
+              "C:\\Proyectos\\ArqCapas\\ProyectoGestionTareas\\GestionTareas\\Capa_Servicios\\Capa_Servicios.csproj": {
+                "projectPath": "C:\\Proyectos\\ArqCapas\\ProyectoGestionTareas\\GestionTareas\\Capa_Servicios\\Capa_Servicios.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            },
+            "System.Security.Permissions": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Proyectos\\ArqCapas\\ProyectoGestionTareas\\GestionTareas\\Capa_Datos\\Capa_Datos.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Proyectos\\ArqCapas\\ProyectoGestionTareas\\GestionTareas\\Capa_Datos\\Capa_Datos.csproj",
+        "projectName": "Capa_Datos",
+        "projectPath": "C:\\Proyectos\\ArqCapas\\ProyectoGestionTareas\\GestionTareas\\Capa_Datos\\Capa_Datos.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\Proyectos\\ArqCapas\\ProyectoGestionTareas\\GestionTareas\\Capa_Entidades\\Capa_Entidades.csproj": {
+                "projectPath": "C:\\Proyectos\\ArqCapas\\ProyectoGestionTareas\\GestionTareas\\Capa_Entidades\\Capa_Entidades.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Proyectos\\ArqCapas\\ProyectoGestionTareas\\GestionTareas\\Capa_Entidades\\Capa_Entidades.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Proyectos\\ArqCapas\\ProyectoGestionTareas\\GestionTareas\\Capa_Entidades\\Capa_Entidades.csproj",
+        "projectName": "Capa_Entidades",
+        "projectPath": "C:\\Proyectos\\ArqCapas\\ProyectoGestionTareas\\GestionTareas\\Capa_Entidades\\Capa_Entidades.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Proyectos\\ArqCapas\\ProyectoGestionTareas\\GestionTareas\\Capa_Servicios\\Capa_Servicios.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Proyectos\\ArqCapas\\ProyectoGestionTareas\\GestionTareas\\Capa_Servicios\\Capa_Servicios.csproj",
+        "projectName": "Capa_Servicios",
+        "projectPath": "C:\\Proyectos\\ArqCapas\\ProyectoGestionTareas\\GestionTareas\\Capa_Servicios\\Capa_Servicios.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\Proyectos\\ArqCapas\\ProyectoGestionTareas\\GestionTareas\\Capa_Datos\\Capa_Datos.csproj": {
+                "projectPath": "C:\\Proyectos\\ArqCapas\\ProyectoGestionTareas\\GestionTareas\\Capa_Datos\\Capa_Datos.csproj"
+              },
+              "C:\\Proyectos\\ArqCapas\\ProyectoGestionTareas\\GestionTareas\\Capa_Entidades\\Capa_Entidades.csproj": {
+                "projectPath": "C:\\Proyectos\\ArqCapas\\ProyectoGestionTareas\\GestionTareas\\Capa_Entidades\\Capa_Entidades.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    }
+  }
+}

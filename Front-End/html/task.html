@@ -1,0 +1,83 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+    <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/alertifyjs@1.13.1/build/css/alertify.min.css"/>
+    <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/alertifyjs@1.13.1/build/css/themes/default.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+    <link rel="stylesheet" href="/css/tarea.css">
+    <title>Manejar Tareas</title>
+  </head>
+  <body>
+
+    <div class="navbar">
+      <div class="logo"><a href="#"><i class="fa-brands fa-joomla"></i></a></div>
+
+      <ul class="links">
+        <li><a href="task.html"><i class="fa-solid fa-list-check"></i> Gestionar Tarea</a></li>
+        <li><a href="development.html"><i class="fa-solid fa-users"></i> Gestionar Desarrolladores</a></li>
+
+    </ul>
+      <a href="login.html" class="btnn"><i class="fa-solid fa-right-from-bracket"></i> Cerrar Seccion</a>
+      <div class="toggle"><i class="fa-solid fa-bars"></i></div>
+  </div>
+
+    <div class="container mt-4 shadow-lg p-3 mb-5  rounded">
+        <button id="btn" type="button" class="btn btn-primary" data-bs-toggle="modal">Crear</button>
+        <table id="tareas" class="table mt-2 table-bordered table-striped">
+            <thead>
+                <tr class="text-center">
+                    <th>Id</th>
+                    <th>Titulo</th>
+                    <th>Descripcion</th>
+                    <th>Funcionalidades</th>
+                </tr>
+            </thead>
+            <tbody id="data">
+            </tbody>
+        </table>
+    </div>
+
+  <div class="modal fade" id="modalTarea" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header bg-primary text-white">
+        <h5 class="modal-title" id="exampleModalLabel">Tarea</h5>
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+
+      <div class="modal-body">
+    <form>
+         <div class="mb-3">
+            <label for="recipient-name" class="col-form-label">Id:</label>
+            <input type="text" class="form-control" id="idTarea">
+          </div>
+          <div class="mb-3">
+            <label for="recipient-name" class="col-form-label">Titulo</label>
+            <input type="text" class="form-control" id="idTitulo">
+          </div>
+          <div class="mb-3">
+            <label for="message-text" class="col-form-label">Descripcion</label>
+            <textarea class="form-control" id="idDescripcion"></textarea>
+          </div>
+      </div>
+
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cerrar</button>
+        <button type="submit" class="btn btn-primary">Guardar</button>
+      </div>
+
+    </form>
+
+    </div>
+  </div>
+  </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+    <script src="//cdn.jsdelivr.net/npm/alertifyjs@1.13.1/build/alertify.min.js"></script>
+    <script src="/js/tarea.js"></script>
+  </body>
+</html>

@@ -1,0 +1,72 @@
+[
+  {
+    "Id": 1,
+    "Nombre": "Kerwin",
+    "Correo": "kerwinangeles12@gmail.com",
+    "Contrasena": "12345",
+    "Rol": "Desarrollador"
+  },
+  {
+    "Id": 2,
+    "Nombre": "Beni",
+    "Correo": "beniFlores@gmail.com",
+    "Contrasena": "123",
+    "Rol": "Desarrollador"
+  },
+  {
+    "Id": 3,
+    "Nombre": "Lerisbel",
+    "Correo": "leribesl@gmail.com",
+    "Contrasena": "leris2",
+    "Rol": "Desarrollador"
+  },
+  {
+    "Id": 4,
+    "Nombre": "Leonardo",
+    "Correo": "leonardo@gmail.com",
+    "Contrasena": "leohd",
+    "Rol": "Desarrollador"
+  },
+  {
+    "Id": 5,
+    "Nombre": "Bernardo",
+    "Correo": "bernardo@gmail.com",
+    "Contrasena": "bernardo1",
+    "Rol": "Desarrollador"
+  },
+  {
+    "Id": 6,
+    "Nombre": "Leris",
+    "Correo": "leris@gmail.com",
+    "Contrasena": "leris2",
+    "Rol": "Desarrollador"
+  },
+  {
+    "Id": 7,
+    "Nombre": "Oniel",
+    "Correo": "oniel@gmail.com",
+    "Contrasena": "oniel02",
+    "Rol": "Desarrollador"
+  },
+  {
+    "Id": 8,
+    "Nombre": "Keven",
+    "Correo": "keven@gmail.com",
+    "Contrasena": "keven1",
+    "Rol": "Desarrollador"
+  },
+  {
+    "Id": 8,
+    "Nombre": "Berlin",
+    "Correo": "berlin@gmail.com",
+    "Contrasena": "berilin2",
+    "Rol": "Desarrollador"
+  },
+  {
+    "Id": 9,
+    "Nombre": "juan",
+    "Correo": "juan@gmail.com",
+    "Contrasena": "juan1",
+    "Rol": "Lider"
+  }
+]

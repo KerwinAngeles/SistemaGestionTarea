@@ -1,0 +1,13 @@
+C:\Proyectos\ArqCapas\ProyectoGestionTareas\GestionTareas\Capa_Servicios\bin\Debug\Capa_Servicios.dll
+C:\Proyectos\ArqCapas\ProyectoGestionTareas\GestionTareas\Capa_Servicios\bin\Debug\Capa_Servicios.pdb
+C:\Proyectos\ArqCapas\ProyectoGestionTareas\GestionTareas\Capa_Servicios\bin\Debug\Capa_Datos.dll
+C:\Proyectos\ArqCapas\ProyectoGestionTareas\GestionTareas\Capa_Servicios\bin\Debug\Capa_Entidades.dll
+C:\Proyectos\ArqCapas\ProyectoGestionTareas\GestionTareas\Capa_Servicios\bin\Debug\Newtonsoft.Json.dll
+C:\Proyectos\ArqCapas\ProyectoGestionTareas\GestionTareas\Capa_Servicios\bin\Debug\Capa_Datos.pdb
+C:\Proyectos\ArqCapas\ProyectoGestionTareas\GestionTareas\Capa_Servicios\bin\Debug\Capa_Entidades.pdb
+C:\Proyectos\ArqCapas\ProyectoGestionTareas\GestionTareas\Capa_Servicios\bin\Debug\Newtonsoft.Json.xml
+C:\Proyectos\ArqCapas\ProyectoGestionTareas\GestionTareas\Capa_Servicios\obj\Debug\Capa_Servicios.csproj.AssemblyReference.cache
+C:\Proyectos\ArqCapas\ProyectoGestionTareas\GestionTareas\Capa_Servicios\obj\Debug\Capa_Servicios.csproj.CoreCompileInputs.cache
+C:\Proyectos\ArqCapas\ProyectoGestionTareas\GestionTareas\Capa_Servicios\obj\Debug\Capa_Servicios.csproj.CopyComplete
+C:\Proyectos\ArqCapas\ProyectoGestionTareas\GestionTareas\Capa_Servicios\obj\Debug\Capa_Servicios.dll
+C:\Proyectos\ArqCapas\ProyectoGestionTareas\GestionTareas\Capa_Servicios\obj\Debug\Capa_Servicios.pdb

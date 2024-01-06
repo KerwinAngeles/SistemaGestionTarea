@@ -1,0 +1,16 @@
+[
+  {
+    "Id": 2,
+    "Titulo": "Funcionalidad pdf",
+    "Descripcion": "Crea una funcionalidad que las foto se descarguen en formato pdf.",
+    "assignarDeveloper": "string",
+    "seguirTarea": true,
+    "Observadores": [
+      {
+        "Id": 0,
+        "Nombre": null,
+        "Correo": "string"
+      }
+    ]
+  }
+]

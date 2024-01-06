@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "75oMC9Y5XumJfm7B2CyWVL3sEldmR2NflDI1BjcCYMk=",
+  "Source": "API",
+  "BasePath": "_content/API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "API\\wwwroot",
+      "Source": "API",
+      "ContentRoot": "C:\\Proyectos\\ArqCapas\\ProyectoGestionTareas\\GestionTareas\\API\\wwwroot\\",
+      "BasePath": "_content/API",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
