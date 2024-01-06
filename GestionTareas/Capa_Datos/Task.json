@@ -1,0 +1,16 @@
+[
+  {
+    "Id": 2,
+    "Titulo": "Prueba",
+    "Descripcion": "Probando",
+    "assignarDeveloper": "string",
+    "seguirTarea": true,
+    "Observadores": [
+      {
+        "Id": 0,
+        "Nombre": "string",
+        "Correo": "string"
+      }
+    ]
+  }
+]

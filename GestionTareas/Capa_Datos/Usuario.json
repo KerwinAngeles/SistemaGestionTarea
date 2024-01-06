@@ -68,5 +68,12 @@
     "Correo": "juan@gmail.com",
     "Contrasena": "juan1",
     "Rol": "Lider"
+  },
+  {
+    "Id": 10,
+    "Nombre": "Saindi",
+    "Correo": "ely@gmail.com",
+    "Contrasena": "12345",
+    "Rol": "Desarrollador"
   }
 ]

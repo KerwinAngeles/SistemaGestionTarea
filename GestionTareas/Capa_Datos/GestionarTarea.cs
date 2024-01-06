@@ -12,7 +12,7 @@ namespace Capa_Datos
 
         public GestionarTarea()
         {
-            Ruta = @"C:\Proyectos\ArqCapas\ProyectoGestionTareas\GestionTareas\Capa_Datos\wwwroot\Task.txt";
+            Ruta = @"C:\Proyectos\ArqCapas\ProyectoGestionTareas\GestionTareas\Capa_Datos\Task.json";
         }
 
         public void SerializarJsonFile(List<Tarea> tareas)

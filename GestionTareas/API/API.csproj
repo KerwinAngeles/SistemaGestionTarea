@@ -7,6 +7,13 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="wwwroot\**" />
+    <Content Remove="wwwroot\**" />
+    <EmbeddedResource Remove="wwwroot\**" />
+    <None Remove="wwwroot\**" />
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.2.3" />
     <PackageReference Include="System.Security.Permissions" Version="8.0.0" />
   </ItemGroup>
@@ -14,10 +21,6 @@
   <ItemGroup>
     <ProjectReference Include="..\Capa_Entidades\Capa_Entidades.csproj" />
     <ProjectReference Include="..\Capa_Servicios\Capa_Servicios.csproj" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <Folder Include="wwwroot\" />
   </ItemGroup>
 
 </Project>

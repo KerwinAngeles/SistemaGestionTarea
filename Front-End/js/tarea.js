@@ -69,7 +69,7 @@ form.addEventListener('submit', (e) =>
     e.preventDefault()
     if(opcion == 'crear')
     {
-        fetch('https://localhost:7149/api/Tarea/CrearTarea',{
+        fetch('https://localhost:7149/api/Tarea/Crear-Tarea',{
             method: 'POST',
             headers: {
                 'Content-Type': 'application/json'
@@ -98,7 +98,7 @@ form.addEventListener('submit', (e) =>
     }
     if(opcion == 'editar')
     {
-        fetch('https://localhost:7149/api/Tarea/EditarTarea', {
+        fetch('https://localhost:7149/api/Tarea/Editar-Tarea', {
             method: 'PUT',
             headers: {
                 'Content-Type': 'application/json'

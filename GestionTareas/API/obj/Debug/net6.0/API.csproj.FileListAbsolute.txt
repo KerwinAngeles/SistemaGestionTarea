@@ -41,4 +41,4 @@ C:\Proyectos\ArqCapas\ProyectoGestionTareas\GestionTareas\API\obj\Debug\net6.0\r
 C:\Proyectos\ArqCapas\ProyectoGestionTareas\GestionTareas\API\bin\Debug\net6.0\System.Security.Permissions.dll
 C:\Proyectos\ArqCapas\ProyectoGestionTareas\GestionTareas\API\bin\Debug\net6.0\System.Windows.Extensions.dll
 C:\Proyectos\ArqCapas\ProyectoGestionTareas\GestionTareas\API\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
-C:\Proyectos\ArqCapas\ProyectoGestionTareas\GestionTareas\API\bin\Debug\net6.0\API.staticwebassets.runtime.json
+C:\Proyectos\ArqCapas\ProyectoGestionTareas\GestionTareas\API\obj\Debug\net6.0\API.sourcelink.json
